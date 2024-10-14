@@ -18,10 +18,6 @@ sections:
       also where I’m based. I’m currently a free agent, ex-this, ex-that,
       ex-super big name. When I’m not coding, writing or creating, I eat
       cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-    media:
-      type: ImageBlock
-      url: /images/Screenshot 2024-10-14 at 6.09.44 PM.png
-      altText: Hero image
     styles:
       self:
         height: auto
