@@ -85,7 +85,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "(917)-648-3036",
+            "phoneNumber": "+1 (917)-648-3036",
             "phoneAltText": "My phone number",
             "email": "ss19623@nyu.edu",
             "emailAltText": "My email",
