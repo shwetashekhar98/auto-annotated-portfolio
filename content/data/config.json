@@ -60,7 +60,7 @@
             {
                 "type": "Link",
                 "label": "Info",
-                "url": "/About Me",
+                "url": "/info",
                 "altText": ""
             },
             {
