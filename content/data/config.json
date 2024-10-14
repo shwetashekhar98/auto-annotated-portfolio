@@ -59,7 +59,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "About Me",
+                "label": "Info",
                 "url": "/About Me",
                 "altText": ""
             },
