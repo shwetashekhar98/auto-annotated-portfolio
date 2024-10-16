@@ -42,7 +42,7 @@ sections:
     colors: colors-f
     variant: variant-b
     title: Kudos & Awards
-    subtitle: ''
+    subtitle: 'Received for '
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
