@@ -43,7 +43,7 @@ sections:
     variant: variant-b
     title: Kudos & Awards
     subtitle: Workplace Recognitions
-    text: >+
+    text: >
       <div style="text-align: center">### ***GEP Worldwide Kudos
       Certificate***</div>
 
@@ -59,16 +59,15 @@ sections:
       ```</div>
 
 
-
-
       <div style="text-align: center">### ***GEP Worldwide Client Onboarding
       Recognition***</div>
+
+
 
 
       Recognized for leading client onboarding, ensuring a smooth transition,
       and enabling a successful go-live while supporting the TSO (Technical
       Support Operations) team.
-
     elementId: ''
     styles:
       self:
