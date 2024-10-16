@@ -20,8 +20,8 @@
             },
             {
                 "type": "Link",
-                "label": "Publications",
-                "url": "/blog"
+                "label": "Achievements",
+                "url": "/Achievements"
             }
         ],
         "socialLinks": [
@@ -71,9 +71,9 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
+                "label": "Publications",
+                "url": "/Publications",
+                "altText": "Publications"
             },
             {
                 "type": "Link",
