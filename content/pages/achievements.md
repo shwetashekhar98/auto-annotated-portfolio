@@ -44,7 +44,7 @@ sections:
     title: Kudos & Awards
     subtitle: Workplace Recognitions
     text: >+
-      <div style="text-align: center">***GEP Worldwide Kudos
+      <div style="text-align: center">### ***GEP Worldwide Kudos
       Certificate***</div>
 
 
@@ -54,7 +54,7 @@ sections:
       efficiency.</div>
 
 
-      <div style="text-align: center">***GEP Worldwide Client Onboarding
+      <div style="text-align: center">### ***GEP Worldwide Client Onboarding
       Recognition***</div>
 
 
