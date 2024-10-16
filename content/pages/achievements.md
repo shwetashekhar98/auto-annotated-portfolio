@@ -43,13 +43,14 @@ sections:
     variant: variant-b
     title: Kudos & Awards
     subtitle: 'Received for '
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      <div class="award-item">
+          <h3>Kudos Certificate - GEP Worldwide</h3>
+          <img src="1640410154134.jpg" alt="GEP Kudos Certificate" />
+          <p>Awarded for delivering client-critical enhancements, reducing feature release time by 25%, and improving overall team efficiency.</p>
+          <span>August 2023</span>
+      </div>
+
     elementId: ''
     styles:
       self:
