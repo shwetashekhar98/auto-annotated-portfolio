@@ -56,13 +56,15 @@ sections:
 
       <div style="text-align: center">```
 
+
+
+
+
       ```</div>
 
 
       <div style="text-align: center">### ***GEP Worldwide Client Onboarding
       Recognition***</div>
-
-
 
 
       Recognized for leading client onboarding, ensuring a smooth transition,
