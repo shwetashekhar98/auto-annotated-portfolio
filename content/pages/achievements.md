@@ -3,7 +3,7 @@ type: PageLayout
 title: Empty page
 sections:
   - type: TextSection
-    colors: colors-f
+    colors: colors-d
     variant: variant-a
     title: Achievements
     subtitle: Publications
