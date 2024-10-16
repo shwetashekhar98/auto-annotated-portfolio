@@ -65,26 +65,26 @@ sections:
           .award-container {
               display: flex;
               flex-wrap: wrap;
-              gap: 20px; /\* Space between boxes \*/
+              gap: 20px; 
           }
           .award-box {
-              border: 1px solid #ccc; /\* Gray border \*/
-              border-radius: 8px; /\* Rounded corners \*/
-              padding: 15px; /\* Space inside the box \*/
-              width: calc(25% - 20px); /\* Adjust width to fit four boxes in a row \*/
-              box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /\* Optional shadow for depth \*/
+              border: 1px solid #ccc; 
+              border-radius: 8px; 
+              padding: 15px;
+              width: calc(25% - 20px); 
+              box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
           }
           @media (max-width: 768px) {
               .award-box {
-                  width: calc(50% - 20px); /\* Two boxes in a row on smaller screens \*/
+                  width: calc(50% - 20px); 
               }
           }
           @media (max-width: 480px) {
               .award-box {
-                  width: 100%; /\* One box in a row on very small screens \*/
+                  width: 100%; 
               }
           }
-      </style></div>
+      </style>
       ```</div>
 
     elementId: ''
