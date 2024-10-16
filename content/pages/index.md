@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       i AM A Master’s student in Computer Science AT NYU,Former Software
       Developer AT GEP
