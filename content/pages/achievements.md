@@ -43,7 +43,7 @@ sections:
     variant: variant-b
     title: Kudos & Awards
     subtitle: Workplace Recognitions
-    text: "<div style=\"text-align: center\">[GEP Worldwide Kudos Certificate.](https://drive.google.com/file/d/1l4D7GBBEo1iYGnFkbdIX6roWiTwsRED5/view)</div>\n\n**Awarded in August 2023**\_for successfully delivering client-critical enhancements, accelerating feature release timelines by 25%, and significantly improving overall team efficiency.\n\n<div style=\"text-align: center\">GEP Worldwide Client Onboarding RecognitionRecognized for successfully leading the onboarding of the\_**ConocoPhillips client**, ensuring a smooth transition and playing a pivotal role in enabling the client to go live, effectively supporting the\_**TSO (Technical Support Operations)** team during the process.</div>\n\n"
+    text: "<div style=\"text-align: center\">[GEP Worldwide Kudos Certificate.](https://drive.google.com/file/d/1l4D7GBBEo1iYGnFkbdIX6roWiTwsRED5/view)</div>\n\n**Awarded in August 2023**\_for successfully delivering client-critical enhancements, accelerating feature release timelines by 25%, and significantly improving overall team efficiency.\n\n<div style=\"text-align: center\">GEP Worldwide Client Onboarding Recognition</div>\n\n<div style=\"text-align: left\">Recognized for successfully leading the onboarding of the\_**ConocoPhillips client**, ensuring a smooth transition and playing a pivotal role in enabling the client to go live, effectively supporting the\_**TSO (Technical Support Operations)** team during the process.</div>\n\n"
     elementId: ''
     styles:
       self:
