@@ -43,7 +43,7 @@ sections:
     variant: variant-b
     title: Kudos & Awards
     subtitle: Workplace Recognitions
-    text: "<div style=\"text-align: center\">### [***GEP Worldwide Kudos Certificate***](https://drive.google.com/file/d/1l4D7GBBEo1iYGnFkbdIX6roWiTwsRED5/view)</div>\n\n<div style=\"text-align: left\">*   Awarded in August 2023 for successfully delivering client-critical enhancements, accelerating feature release timelines by 25%, and significantly improving overall team efficiency.</div>\n\n<div style=\"text-align: center\">### GEP\_Worldwide Client Onboarding Recognition</div>\n\n*   Recognized\_for\_leading client onboarding,\_ensuring a smooth transition, and enabling a successful go-live\_while\_supporting the\_TSO\_(Technical Support Operations)\_team.\n\n<div style=\"text-align: center\">### GEP\_Worldwide Toastmasters</div>\n\n<div style=\"text-align: left\">*   Recognized as a grammarian for contributions to enhancing communication skills and promoting effective language use.</div>\n\n"
+    text: "<div style=\"text-align: center\">### [***GEP Worldwide Kudos Certificate***](https://drive.google.com/file/d/1l4D7GBBEo1iYGnFkbdIX6roWiTwsRED5/view)</div>\n\n<div style=\"text-align: left\">*   Awarded in August 2023 for successfully delivering client-critical enhancements, accelerating feature release timelines by 25%, and significantly improving overall team efficiency.</div>\n\n<div style=\"text-align: center\">### GEP\_Worldwide Client Onboarding Recognition</div>\n\n*   Recognized\_for\_leading client onboarding,\_ensuring a smooth transition, and enabling a successful go-live\_while\_supporting the\_TSO\_(Technical Support Operations)\_team.\n\n<div style=\"text-align: center\">### [GEP\_Worldwide Toastmasters](https://drive.google.com/file/d/1idj25S5iEJRXafDYTW_Xde9bAXkQkP-n/view?usp=sharing)</div>\n\n<div style=\"text-align: left\">*   Recognized as a grammarian for contributions to enhancing communication skills and promoting effective language use.</div>\n\n"
     elementId: ''
     styles:
       self:
@@ -65,13 +65,7 @@ sections:
     colors: colors-f
     variant: variant-b
     title: Academic Awards
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: ''
     elementId: ''
     styles:
       self:
