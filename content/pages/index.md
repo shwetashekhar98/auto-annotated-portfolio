@@ -20,16 +20,17 @@ sections:
       Welcome! I’m Shweta, a passionate technologist.  Before stepping into the
       world of academia.I spent four years as a Software Engineer at GEP
       Worldwide, where I crafted scalable solutions and optimized cloud-based
-      platforms. My journey has been a blend of innovation, problem-solving, and
-      a deep curiosity for cutting-edge technologies. Whether it’s building
-      robust APIs, streamlining operations through machine learning, or diving
-      into the latest JavaScript frameworks, I’m driven by the thrill of
-      creating impactful solutions. At NYU, I’m honing my expertise in data
-      science, machine learning, and full-stack development—working towards
-      redefining how technology shapes our future.When I’m not coding, I’m
-      exploring the latest in AI and cloud technologies, or participating in
-      hackathons, where I bring innovative ideas to life. Let’s connect and
-      explore how technology can push boundaries together!
+      platforms.                My journey has been a blend of innovation,
+      problem-solving, and a deep curiosity for cutting-edge technologies.
+      Whether it’s building robust APIs, streamlining operations through machine
+      learning, or diving into the latest JavaScript frameworks, I’m driven by
+      the thrill of creating impactful solutions. At NYU, I’m honing my
+      expertise in data science, machine learning, and full-stack
+      development—working towards redefining how technology shapes our
+      future.When I’m not coding, I’m exploring the latest in AI and cloud
+      technologies, or participating in hackathons, where I bring innovative
+      ideas to life. Let’s connect and explore how technology can push
+      boundaries together!
     styles:
       self:
         height: auto
