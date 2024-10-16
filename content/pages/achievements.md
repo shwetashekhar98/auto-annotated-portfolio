@@ -43,7 +43,52 @@ sections:
     variant: variant-b
     title: Kudos & Awards
     subtitle: Workplace Recognitions
-    text: "<div style=\"text-align: center\">### [***GEP Worldwide Kudos Certificate***](https://drive.google.com/file/d/1l4D7GBBEo1iYGnFkbdIX6roWiTwsRED5/view)</div>\n\n<div style=\"text-align: left\">*   Awarded in August 2023 for successfully delivering client-critical enhancements, accelerating feature release timelines by 25%, and significantly improving overall team efficiency.</div>\n\n<div style=\"text-align: center\">### GEP\_Worldwide Client Onboarding Recognition</div>\n\n*   Recognized\_for\_leading client onboarding,\_ensuring a smooth transition, and enabling a successful go-live\_while\_supporting the\_TSO\_(Technical Support Operations)\_team.\n\n<div style=\"text-align: center\">### [GEP\_Worldwide Toastmasters](https://drive.google.com/file/d/1idj25S5iEJRXafDYTW_Xde9bAXkQkP-n/view?usp=sharing)</div>\n\n<div style=\"text-align: left\">*   Recognized as a grammarian for contributions to enhancing communication skills and promoting effective language use.</div>\n\n"
+    text: |+
+      <div style="text-align: center">```
+      <div class="award-container">
+          <div class="award-box">
+              <h3>GEP Worldwide Kudos Certificate</h3>
+              <p>Awarded in August 2023 for successfully delivering client-critical enhancements, accelerating feature release timelines by 25%, and significantly improving overall team efficiency.</p>
+          </div>
+          <div class="award-box">
+              <h3>GEP Worldwide Client Onboarding Recognition</h3>
+              <p>Recognized for leading client onboarding, ensuring a smooth transition, and enabling a successful go-live while supporting the TSO (Technical Support Operations) team.</p>
+          </div>
+          <div class="award-box">
+              <h3>GEP Worldwide Toastmasters</h3>
+              <p>Recognized as a grammarian for contributions to enhancing communication skills and promoting effective language use.</p>
+          </div>
+          <div class="award-box">
+              <h3>GEP Worldwide Service Award</h3>
+              <p>Received a silver coin and an award for successfully completing three years of dedicated service with GEP Worldwide, recognizing the commitment and contributions to the organization.</p>
+          </div>
+      </div><style>
+          .award-container {
+              display: flex;
+              flex-wrap: wrap;
+              gap: 20px; /\* Space between boxes \*/
+          }
+          .award-box {
+              background-color: #f9f9f9; /\* Light gray background \*/
+              border: 1px solid #ccc; /\* Gray border \*/
+              border-radius: 8px; /\* Rounded corners \*/
+              padding: 15px; /\* Space inside the box \*/
+              width: calc(25% - 20px); /\* Adjust width to fit four boxes in a row \*/
+              box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /\* Optional shadow for depth \*/
+          }
+          @media (max-width: 768px) {
+              .award-box {
+                  width: calc(50% - 20px); /\* Two boxes in a row on smaller screens \*/
+              }
+          }
+          @media (max-width: 480px) {
+              .award-box {
+                  width: 100%; /\* One box in a row on very small screens \*/
+              }
+          }
+      </style>
+      ```</div>
+
     elementId: ''
     styles:
       self:
@@ -63,9 +108,34 @@ sections:
         textAlign: center
   - type: TextSection
     colors: colors-f
-    variant: variant-b
+    variant: variant-a
     title: Academic Awards
-    text: ''
+    text: >+
+      *   **Silver Medalist  - Bachelor of Engineering in Computer Engineering
+      (9.36/10)**
+          Recognized as the highest achiever in the Computer Science program during undergraduate studies.
+
+      *   **ESSAR Endowment Scholarship for Overall Topper in 2nd and 3rd
+      Year** 
+          Awarded by the college for consistently achieving the highest academic performance in the second and third year of the computer engineering program.
+
+      *   **Smart India Hackathon 2020 - Participant**
+          Contributed to innovative solutions in a national-level hackathon aimed at addressing various societal challenges.
+
+      *   **Data Science Certification - IIT Madras**
+          Completed a rigorous certification program focused on data science concepts and applications from a estemeed faculty of IIT Madras.
+
+      *   **2nd Position - INNOVATIONS 2K19 National Level Group Project
+      Competition**
+          Secured the second position for a project that showcased innovative solutions in technology.
+
+      *   **Semi-Finalist - Mastek-Majesco Deep Blue Group Project Competition
+      Season 4**
+          Achieved semi-finalist status in a competitive project showcase focusing on deep technology solutions.
+
+      *   **Finalist - ByteCamp'19**
+          Reached the finals in a competition that emphasized practical applications of technology and coding skills.
+
     elementId: ''
     styles:
       self:
