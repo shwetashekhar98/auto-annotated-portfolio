@@ -7,8 +7,8 @@ sections:
     variant: variant-a
     title: Achievements
     subtitle: Publications
-    text: >+
-      Machine Learning Based Learning Disability Detection using LMS
+    text: >
+      ***Machine Learning Based Learning Disability Detection using LMS***
 
 
       Published in the 5th IEEE International Conference on Computing,
@@ -21,7 +21,6 @@ sections:
 
 
       [Read Paper to Know More ](https://ieeexplore.ieee.org/document/9250761)
-
     elementId: ''
     styles:
       self:
