@@ -44,21 +44,31 @@ sections:
     title: Kudos & Awards
     subtitle: Workplace Recognitions
     text: >+
-      <div style="text-align: center">GEP Worldwide Kudos Certificate
+      <div style="text-align: center">GEP Worldwide Kudos Certificate</div>
 
-      Awarded in August 2023 for successfully delivering client-critical
-      enhancements, accelerating feature release timelines by 25%, and
-      significantly improving overall team efficiency.</div>
+
+      <div style="text-align: left">Awarded in August 2023 for successfully
+      delivering client-critical enhancements, accelerating feature release
+      timelines by 25%, and significantly improving overall team
+      efficiency.</div>
 
 
       <div style="text-align: center">GEP Worldwide Client Onboarding
       Recognition</div>
 
 
-      Recognized for successfully leading the onboarding of the client, ensuring
-      a smooth transition and playing a pivotal role in enabling the client to
-      go live, effectively supporting the TSO (Technical Support Operations)
-      team during the process.
+      <div style="text-align: left">Recognized for successfully leading the
+      onboarding of the client, ensuring a smooth transition and playing a
+      pivotal role in enabling the client to go live, effectively supporting the
+      TSO (Technical Support Operations) team during the process.</div>
+
+
+
+
+      <div style="text-align: left"></div>
+
+
+      <div style="text-align: center"></div>
 
     elementId: ''
     styles:
