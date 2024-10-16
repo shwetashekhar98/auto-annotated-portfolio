@@ -89,6 +89,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: Scholarships and Awards
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
