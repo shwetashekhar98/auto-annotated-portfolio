@@ -43,7 +43,7 @@ sections:
     variant: variant-b
     title: Kudos & Awards
     subtitle: Workplace Recognitions
-    text: |
+    text: |+
       <div style="text-align: center"><div class="award-item">
           <h3>GEP Worldwide Kudos Certificate</h3>
           <p>Awarded in August 2023 for successfully delivering client-critical enhancements, accelerating feature release timelines by 25%, and significantly improving overall team efficiency.</p>
@@ -52,23 +52,6 @@ sections:
           <p>Recognized for successfully leading the onboarding of the ConocoPhillips client, ensuring a smooth transition and playing a pivotal role in enabling the client to go live, effectively supporting the TSO (Technical Support Operations) team during the process.</p>
       </div></div>
 
-      .award-item {
-      background-color: #f9f9f9;
-      padding: 15px;
-      border-radius: 5px;
-      margin-bottom: 20px;
-      box-shadow: 0px 4px 6px rgba(0,0,0,0.1);
-      }
-
-      .award-item h3 {
-      color: #333;
-      font-size: 20px;
-      }
-
-      .award-item p {
-      color: #666;
-      font-size: 16px;
-      }
     elementId: ''
     styles:
       self:
