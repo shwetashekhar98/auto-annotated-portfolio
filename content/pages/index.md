@@ -89,7 +89,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Experience
     showFeaturedImage: false
     actions:
       - type: Link
