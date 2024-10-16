@@ -42,7 +42,7 @@ sections:
     colors: colors-f
     variant: variant-b
     title: Kudos & Awards
-    subtitle: 'Received for '
+    subtitle: Received at Work
     text: |+
       <div class="award-item">
           <h3>Kudos Certificate - GEP Worldwide</h3>
