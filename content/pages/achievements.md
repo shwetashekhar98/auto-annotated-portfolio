@@ -44,10 +44,7 @@ sections:
     title: Kudos & Awards
     subtitle: Workplace Recognitions
     text: >
-      <div style="text-align: left">Kudos Certificate - GEP Worldwide</div>
-
-
-      GEP Kudos Certificate.
+      <div style="text-align: left">GEP Worldwide Kudos Certificate.</div>
 
 
       Awarded in Aug 2023 for delivering client-critical enhancements, reducing
