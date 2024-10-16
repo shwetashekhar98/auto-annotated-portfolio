@@ -58,10 +58,9 @@ sections:
       Recognition***</div>
 
 
-      <div style="text-align: left">Recognized for successfully leading the
-      onboarding of the client, ensuring a smooth transition and playing a
-      pivotal role in enabling the client to go live, effectively supporting the
-      TSO (Technical Support Operations) team during the process.</div>
+      <div style="text-align: left">Recognized for leading client onboarding,
+      ensuring a smooth transition, and enabling a successful go-live while
+      supporting the TSO (Technical Support Operations) team.</div>
 
 
       <div style="text-align: left"></div>
