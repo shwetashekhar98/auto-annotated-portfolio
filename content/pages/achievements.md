@@ -43,20 +43,15 @@ sections:
     variant: variant-b
     title: Kudos & Awards
     subtitle: Workplace Recognitions
-    text: >+
+    text: >
       <div style="text-align: left">Kudos Certificate - GEP Worldwide</div>
 
 
-      GEP Kudos Certificate
+      GEP Kudos Certificate.  - August 2023
 
 
       Awarded for delivering client-critical enhancements, reducing feature
       release time by 25%, and improving overall team efficiency.
-
-      August 2023
-
-
-
     elementId: ''
     styles:
       self:
