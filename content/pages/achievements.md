@@ -47,11 +47,11 @@ sections:
       <div style="text-align: left">Kudos Certificate - GEP Worldwide</div>
 
 
-      GEP Kudos Certificate.  - August 2023
+      GEP Kudos Certificate.
 
 
-      Awarded for delivering client-critical enhancements, reducing feature
-      release time by 25%, and improving overall team efficiency.
+      Awarded in Aug 2023 for delivering client-critical enhancements, reducing
+      feature release time by 25%, and improving overall team efficiency.
     elementId: ''
     styles:
       self:
