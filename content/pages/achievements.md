@@ -11,11 +11,11 @@ sections:
       ***Machine Learning Based Learning Disability Detection using LMS***
 
 
-      Published in the 5th IEEE International Conference on Computing,
+      *   Published in the 5th IEEE International Conference on Computing,
       Communication and Automation (IEEE ICCCA) - 2020
 
 
-      This research paper introduces a system that uses machine learning
+      *   This research paper introduces a system that uses machine learning
       algorithms like Random Forest and SVM to detect learning disabilities in
       students using the Moodle Learning Management System.
 
