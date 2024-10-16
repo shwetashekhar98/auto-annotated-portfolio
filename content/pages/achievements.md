@@ -54,25 +54,11 @@ sections:
       efficiency.</div>
 
 
+      <div style="text-align: center">```</div>
+
+
+
       ```</div>
-
-
-      <div style="text-align: center">### ***GEP Worldwide Client Onboarding
-      Recognition***</div>
-
-
-      <div style="text-align: left">Recognized for leading client onboarding,
-      ensuring a smooth transition, and enabling a successful go-live while
-      supporting the TSO (Technical Support Operations) team.</div>
-
-
-      <div style="text-align: left"></div>
-
-
-      <div style="text-align: center"></div>
-
-
-      ```
 
     elementId: ''
     styles:
