@@ -63,7 +63,7 @@ sections:
         textAlign: center
   - type: TextSection
     colors: colors-f
-    variant: variant-a
+    variant: variant-b
     title: Academic Awards
     text: ''
     elementId: ''
