@@ -17,9 +17,19 @@ sections:
       i AM A Master’s student in Computer Science AT NYU,Former Software
       Developer AT GEP
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Welcome! I’m Shweta, a passionate technologist.I spent four years as a
+      Software Engineer at GEP Worldwide, where I crafted scalable solutions and
+      optimized cloud-based platforms that revolutionized procurement systems.My
+      journey has been a blend of innovation, problem-solving, and a deep
+      curiosity for cutting-edge technologies. Whether it’s building robust
+      APIs, streamlining operations through machine learning, or diving into the
+      latest JavaScript frameworks, I’m driven by the thrill of creating
+      impactful solutions. At NYU, I’m honing my expertise in data science,
+      machine learning, and full-stack development—working towards redefining
+      how technology shapes our future.When I’m not coding, I’m exploring the
+      latest in AI and cloud technologies, or participating in hackathons, where
+      I bring innovative ideas to life. Let’s connect and explore how technology
+      can push boundaries together!
     styles:
       self:
         height: auto
