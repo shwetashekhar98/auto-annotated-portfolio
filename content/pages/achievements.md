@@ -29,7 +29,7 @@ sections:
         textAlign: left
   - type: TextSection
     colors: colors-f
-    variant: variant-a
+    variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
     text: >-
