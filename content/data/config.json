@@ -71,15 +71,15 @@
             },
             {
                 "type": "Link",
-                "label": "Publications",
-                "url": "/Publications",
-                "altText": "Publications"
+                "label": "Achievements",
+                "url": "/achievements",
+                "altText": "Achievements"
             },
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/shwetashekhar98",
+                "altText": "Github Link"
             }
         ],
         "contacts": {
