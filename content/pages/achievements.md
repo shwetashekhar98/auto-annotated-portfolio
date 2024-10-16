@@ -65,20 +65,16 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Academic Awards
-    text: >
+    text: >+
+      *   *   **Overall Topper - Bachelor of Engineering in Computer Science
+      (Silver Medal)**
+              Recognized as the highest achiever in the Computer Science program during undergraduate studies.*   **Smart India Hackathon 2020 - Participant**
+              Contributed to innovative solutions in a national-level hackathon aimed at addressing various societal challenges.*   **Data Science Certification - IIT Madras**
+              Completed a rigorous certification program focused on data science concepts and applications from a prestigious institution.*   **2nd Position - INNOVATIONS 2K19 National Level Group Project Competition**
+              Secured the second position for a project that showcased innovative solutions in technology.*   **Semi-Finalist - Mastek-Majesco Deep Blue Group Project Competition Season 4**
+              Achieved semi-finalist status in a competitive project showcase focusing on deep technology solutions.*   **Finalist - ByteCamp'19**
+              Reached the finals in a competition that emphasized practical applications of technology and coding skills.
 
-      Overall Topper - Bachelor of Engineering in Computer Science (Silver
-      Medal).                                                                                                               
-      Smart India Hackathon 2020 - Participant
-
-      Data Science Certification - IIT Madras
-
-      2nd Position - INNOVATIONS 2K19 National Level Group Project Competition
-
-      Semi-Finalist - Mastek-Majesco Deep Blue Group Project Competition Season
-      4
-
-      Finalist - ByteCamp'19
     elementId: ''
     styles:
       self:
