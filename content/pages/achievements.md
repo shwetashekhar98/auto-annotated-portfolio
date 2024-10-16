@@ -44,7 +44,7 @@ sections:
     title: Kudos & Awards
     subtitle: Workplace Recognitions
     text: |+
-      <div style="text-align: center">
+      <div style="text-align: center">```
       <div class="award-container">
           <div class="award-box">
               <h3>GEP Worldwide Kudos Certificate</h3>
@@ -63,7 +63,9 @@ sections:
               <p>Received a silver coin and an award for successfully completing three years of dedicated service with GEP Worldwide, recognizing the commitment and contributions to the organization.</p>
           </div>
       </div>
+      ```</div>
 
+      ```
       <style>
           .award-container {
               display: flex;
@@ -71,13 +73,14 @@ sections:
               gap: 20px; /* Space between boxes */
           }
           .award-box {
-              background-color: #f9f9f9; /* Light gray background */
-              border: 1px solid #ccc; /* Gray border */
-              border-radius: 8px; /* Rounded corners */
-              padding: 15px; /* Space inside the box */
-              width: calc(25% - 20px); /* Adjust width to fit four boxes in a row */
-              box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow for depth */
-          }
+          background-color: #f9f9f9; /* Light gray background */
+          border: 1px solid #ccc; /* Gray border */
+          border-radius: 8px; /* Rounded corners */
+          padding: 15px; /* Space inside the box */
+          width: calc(25% - 20px); /* Adjust width to fit four boxes in a row */
+          box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow for depth */
+          color: #333; /* Darker text color for better contrast */
+      }
           @media (max-width: 768px) {
               .award-box {
                   width: calc(50% - 20px); /* Two boxes in a row on smaller screens */
@@ -89,7 +92,11 @@ sections:
               }
           }
       </style>
+      ```
+
+      ```
       </div>
+      ```
 
     elementId: ''
     styles:
