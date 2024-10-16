@@ -65,7 +65,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Academic Awards
-    text: ''
+    text: "`<h2>Academic Awards & Scholarships</h2>\_<ul>\_<li>Overall Topper - Bachelor of Engineering in Computer Science (Silver Medal)</li>\_<li>Smart India Hackathon 2020 - Participant</li>\_<li>GEP Worldwide Toastmasters - Grammarian Certificate</li>\_<li>Data Science Certification - IIT Madras</li>\_<li>2nd Position - INNOVATIONS 2K19 National Level Group Project Competition</li>\_<li>Semi-Finalist - Mastek-Majesco Deep Blue Group Project Competition Season 4</li>\_<li>Finalist - ByteCamp'19</li>\_</ul>`\n\n"
     elementId: ''
     styles:
       self:
