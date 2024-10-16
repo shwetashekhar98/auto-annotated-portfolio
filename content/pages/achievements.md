@@ -50,9 +50,10 @@ sections:
 
       <div style="text-align: left">Awarded in August 2023 for successfully
       delivering client-critical enhancements, accelerating feature release
-      timelines by 25%, and significantly improving overall team efficiency.
+      timelines by 25%, and significantly improving overall team efficiency.```
 
-      ```
+
+
 
       ```</div>
 
