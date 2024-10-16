@@ -46,7 +46,7 @@ sections:
     text: |
       <div class="award-item">
           <h3>Kudos Certificate - GEP Worldwide</h3>
-          <a href="https\://drive.google.com/file/d/1l4D7GBBEo1iYGnFkbdIX6roWiTwsRED5/view?usp=share\_link" target="\\\_blank">
+          <a href="https\://drive.google.com/file/d/1l4D7GBBEo1iYGnFkbdIX6roWiTwsRED5/view?usp=share\_link" target="\\\\\\\_blank">
               GEP Kudos Certificate
           </a>
           <p>Awarded for delivering client-critical enhancements, reducing feature release time by 25%, and improving overall team efficiency.</p>
