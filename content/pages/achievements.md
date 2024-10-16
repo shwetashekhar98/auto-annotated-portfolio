@@ -44,7 +44,8 @@ sections:
     title: Kudos & Awards
     subtitle: Workplace Recognitions
     text: >+
-      <div style="text-align: center">GEP Worldwide Kudos Certificate</div>
+      <div style="text-align: center">***GEP Worldwide Kudos
+      Certificate***</div>
 
 
       <div style="text-align: left">Awarded in August 2023 for successfully
@@ -53,8 +54,8 @@ sections:
       efficiency.</div>
 
 
-      <div style="text-align: center">GEP Worldwide Client Onboarding
-      Recognition</div>
+      <div style="text-align: center">***GEP Worldwide Client Onboarding
+      Recognition***</div>
 
 
       <div style="text-align: left">Recognized for successfully leading the
