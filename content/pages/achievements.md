@@ -42,15 +42,16 @@ sections:
     colors: colors-f
     variant: variant-b
     title: Kudos & Awards
-    subtitle: 'Received for '
-    text: |+
+    subtitle: Workplace Recognitions
+    text: |
       <div class="award-item">
           <h3>Kudos Certificate - GEP Worldwide</h3>
-          <img src="1640410154134.jpg" alt="GEP Kudos Certificate" />
+          <a href="https\://drive.google.com/file/d/1l4D7GBBEo1iYGnFkbdIX6roWiTwsRED5/view?usp=share\_link" target="\\\_blank">
+              GEP Kudos Certificate
+          </a>
           <p>Awarded for delivering client-critical enhancements, reducing feature release time by 25%, and improving overall team efficiency.</p>
           <span>August 2023</span>
       </div>
-
     elementId: ''
     styles:
       self:
@@ -105,4 +106,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 80
+metaTags: []
 ---
