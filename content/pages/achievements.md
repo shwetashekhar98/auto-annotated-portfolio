@@ -73,7 +73,6 @@ sections:
               gap: 20px; /\* Space between boxes \*/
           }
           .award-box {
-              background-color: #f9f9f9; /\* Light gray background \*/
               border: 1px solid #ccc; /\* Gray border \*/
               border-radius: 8px; /\* Rounded corners \*/
               padding: 15px; /\* Space inside the box \*/
