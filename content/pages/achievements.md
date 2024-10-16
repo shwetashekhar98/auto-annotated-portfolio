@@ -46,7 +46,7 @@ sections:
     text: |+
       <div class="award-item">
           <h3>Kudos Certificate - GEP Worldwide</h3>
-          <img src="1640410154134.jpg" alt="GEP Kudos Certificate" />
+          GEP Kudos Certificate
           <p>Awarded for delivering client-critical enhancements, reducing feature release time by 25%, and improving overall team efficiency.</p>
           <span>August 2023</span>
       </div>
