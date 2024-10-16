@@ -65,12 +65,11 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Academic Awards
-    text: >+
-      ```
-
+    text: >
 
       Overall Topper - Bachelor of Engineering in Computer Science (Silver
-      Medal).                Smart India Hackathon 2020 - Participant
+      Medal).                                                                                                               
+      Smart India Hackathon 2020 - Participant
 
       Data Science Certification - IIT Madras
 
@@ -80,10 +79,6 @@ sections:
       4
 
       Finalist - ByteCamp'19
-
-
-      ```
-
     elementId: ''
     styles:
       self:
