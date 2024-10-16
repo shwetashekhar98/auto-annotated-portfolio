@@ -107,6 +107,6 @@ backgroundImage:
   opacity: 80
 metaTags:
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:image'
     content: ''
 ---
