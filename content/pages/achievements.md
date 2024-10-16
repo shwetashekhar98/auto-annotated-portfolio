@@ -105,4 +105,8 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 80
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
