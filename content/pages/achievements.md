@@ -105,4 +105,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 80
+socialImage: /images/1640410154134.jpg
 ---
