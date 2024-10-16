@@ -41,7 +41,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-b
-    title: 'Kudos '
+    title: Kudos & Awards
     subtitle: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
