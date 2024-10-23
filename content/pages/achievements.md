@@ -44,7 +44,7 @@ sections:
     title: Kudos & Awards
     subtitle: Workplace Recognitions
     text: |+
-      <div style="text-align: center">```
+      <div style="text-align: left">```
       <div class="award-container">
           <div class="award-box">
               <h3>GEP Worldwide Kudos Certificate</h3>
@@ -62,31 +62,7 @@ sections:
               <h3>GEP Worldwide Service Award</h3>
               <p>Received a silver coin and an award for successfully completing three years of dedicated service with GEP Worldwide, recognizing the commitment and contributions to the organization.</p>
           </div>
-      </div><style>
-          .award-container {
-              display: flex;
-              flex-wrap: wrap;
-              gap: 20px; /\* Space between boxes \*/
-          }
-          .award-box {
-              background-color: #f9f9f9; /\* Light gray background \*/
-              border: 1px solid #ccc; /\* Gray border \*/
-              border-radius: 8px; /\* Rounded corners \*/
-              padding: 15px; /\* Space inside the box \*/
-              width: calc(25% - 20px); /\* Adjust width to fit four boxes in a row \*/
-              box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /\* Optional shadow for depth \*/
-          }
-          @media (max-width: 768px) {
-              .award-box {
-                  width: calc(50% - 20px); /\* Two boxes in a row on smaller screens \*/
-              }
-          }
-          @media (max-width: 480px) {
-              .award-box {
-                  width: 100%; /\* One box in a row on very small screens \*/
-              }
-          }
-      </style>
+      </div>
       ```</div>
 
     elementId: ''
