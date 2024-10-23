@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: >-
-      i AM A Master’s student pursuing Computer Science AT NYU,Former Software
-      Developer AT GEP Worldwide
+      Anirudh Srinath BelwadiEntrepreneur | Full Stack Developer | Musician |
+      Photographer
     subtitle: ''
     styles:
       self:
