@@ -44,8 +44,7 @@ sections:
     title: Kudos & Awards
     subtitle: Workplace Recognitions
     text: |+
-      <div style="text-align: left">```
-      <div class="award-container">
+      <div style="text-align: center"><div class="award-container">
           <div class="award-box">
               <h3>GEP Worldwide Kudos Certificate</h3>
               <p>Awarded in August 2023 for successfully delivering client-critical enhancements, accelerating feature release timelines by 25%, and significantly improving overall team efficiency.</p>
@@ -62,8 +61,7 @@ sections:
               <h3>GEP Worldwide Service Award</h3>
               <p>Received a silver coin and an award for successfully completing three years of dedicated service with GEP Worldwide, recognizing the commitment and contributions to the organization.</p>
           </div>
-      </div>
-      ```</div>
+      </div></div>
 
     elementId: ''
     styles:
