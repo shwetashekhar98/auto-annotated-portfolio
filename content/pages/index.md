@@ -16,7 +16,7 @@ sections:
     title: >-
       i AM A Master’s student pursuing Computer Science AT NYU,Former Software
       Developer AT GEP Worldwide
-    subtitle: "Welcome! I’m Shweta, a passionate technologist.                            Before stepping into the world of academia. I spent four years as a Software Engineer at GEP Worldwide, where I crafted scalable solutions and optimized cloud-based platforms. My journey has blended innovation, problem-solving, and a deep curiosity for cutting-edge technologies. Whether it’s building robust APIs, streamlining operations through machine learning, or diving into the latest JavaScript frameworks, I’m driven by the thrill of creating impactful solutions. At NYU, I’m honing my expertise in data science, machine learning, and full-stack development—working towards redefining how technology shapes our future. \_When I’m not coding, I’m exploring the latest in AI and cloud technologies, or participating in hackathons, where I bring innovative ideas to life. Let’s connect and explore how technology can push boundaries together!"
+    subtitle: ''
     styles:
       self:
         height: auto
@@ -44,6 +44,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: "Welcome! I’m Shweta, a passionate technologist. Before stepping into the world of academia. \n\nI spent four years as a Software Engineer at GEP Worldwide, where I crafted scalable solutions and optimized cloud-based platforms. My journey has blended innovation, problem-solving, and a deep curiosity for cutting-edge technologies.\n\n Whether it’s building robust APIs, streamlining operations through machine learning, or diving into the latest JavaScript frameworks, I’m driven by the thrill of creating impactful solutions. \n\nAt NYU, I’m honing my expertise in data science, machine learning, and full-stack development—working towards redefining how technology shapes our future. \_\n\nWhen I’m not coding, I’m exploring the latest in AI and cloud technologies, or participating in hackathons, where I bring innovative ideas to life. Let’s connect and explore how technology can push boundaries together!\n"
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
