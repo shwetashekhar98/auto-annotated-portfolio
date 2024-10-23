@@ -15,9 +15,9 @@ sections:
     backgroundSize: inset
     title: '                 Shweta Shekhar           '
     subtitle: >-
-      Master's Student in Computer Science at NYU@26 | Experienced Software
-      Engineer at GEP | Passionate About Machine Learning & Data Science |
-      Dancer | Singer
+      Master's Student in Computer Science at NYU | Experienced Software
+      Engineer at GEP | Former ML Intern at BARC | Passionate about Machine
+      Learning & Data Science | Dancer | Singer
     styles:
       self:
         height: auto
