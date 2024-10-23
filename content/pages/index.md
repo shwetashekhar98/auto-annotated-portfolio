@@ -13,10 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: >-
-      i AM A Master’s student pursuing Computer Science AT NYU,Former Software
-      Developer AT GEP Worldwide
-    subtitle: ''
+    title: Shweta Shekhar
+    subtitle: "\U0001F469‍\U0001F4BBMaster's Student in Computer Science @ NYU\_| \U0001F4BCExperienced Software Engineer @ GEP\_| \U0001F50DFormer ML Intern @ BARC\_| \U0001F916Passionate about Machine Learning & Data Science\_| \U0001F483Dancer\_| \U0001F3A4Singer\_| \U0001F680Tech Enthusiast"
     styles:
       self:
         height: auto
@@ -35,7 +33,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
         textAlign: center
       text:
@@ -44,7 +42,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: "Welcome! I’m Shweta, a passionate technologist. Before stepping into the world of academia. \n\nI spent four years as a Software Engineer at GEP Worldwide, where I crafted scalable solutions and optimized cloud-based platforms. My journey has blended innovation, problem-solving, and a deep curiosity for cutting-edge technologies.\n\n Whether it’s building robust APIs, streamlining operations through machine learning, or diving into the latest JavaScript frameworks, I’m driven by the thrill of creating impactful solutions. \n\nAt NYU, I’m honing my expertise in data science, machine learning, and full-stack development—working towards redefining how technology shapes our future. \_\n\nWhen I’m not coding, I’m exploring the latest in AI and cloud technologies, or participating in hackathons, where I bring innovative ideas to life. Let’s connect and explore how technology can push boundaries together!\n"
+    text: "<div style=\"text-align: left\"><div class=\"container\">\n    <p>\n        Before diving into the world of academia \U0001F331, I spent four years as a <span class=\"highlight\">Software Engineer at GEP Worldwide</span> \U0001F3E2, where I designed scalable solutions and optimized cloud-based platforms. My journey has been driven by <span class=\"highlight\">innovation</span> \U0001F4A1, <span class=\"highlight\">problem-solving</span> \U0001F6E0️, and a deep curiosity for <span class=\"highlight\">cutting-edge technologies</span> \U0001F916.\n    </p>\n    <p>\n        <strong>What I love:</strong>\n    </p>\n    <ul class=\"emoji\">\n        <li>\U0001F310 Building robust APIs that power modern applications</li>\n        <li>\U0001F9E0 Streamlining operations with machine learning models</li>\n        <li>\U0001F680 Exploring the latest JavaScript frameworks</li>\n    </ul>\n    <p>\n        At <span class=\"highlight\">NYU</span> \U0001F3D9️, I’m refining my expertise in <span class=\"highlight\">data science</span> \U0001F4CA, <span class=\"highlight\">machine learning</span> \U0001F9D1‍\U0001F4BB, and <span class=\"highlight\">full-stack development</span>. My goal? To <span class=\"highlight\">redefine how technology shapes our future</span>! \U0001F30D\n    </p>\n    <p>\n        When I’m not coding \U0001F4BB, you can find me:\n    </p>\n    <ul class=\"emoji\">\n        <li>☁️\U0001F916 Exploring the latest in AI and cloud technologies</li>\n        <li>\U0001F3C6 Participating in hackathons, where I bring innovative ideas to life</li>\n    </ul>\n    <a class=\"connect\" href=\"https://www.linkedin.com/in/shweta-shekhar\">Let’s connect and explore how technology can push boundaries together! \U0001F91D✨</a>\n</div></div>\n\n"
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
