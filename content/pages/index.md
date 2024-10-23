@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: Shweta Shekhar | Full Stack Developer | Musician | Photographer
+    title: 'Shweta Shekhar           '
     subtitle: ''
     styles:
       self:
