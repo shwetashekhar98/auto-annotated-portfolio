@@ -7,20 +7,7 @@ sections:
     variant: variant-a
     title: Achievements
     subtitle: Publications
-    text: >
-      ***Machine Learning Based Learning Disability Detection using LMS***
-
-
-      *   Published in the 5th IEEE International Conference on Computing,
-      Communication and Automation (IEEE ICCCA) - 2020
-
-
-      *   This research paper introduces a system that uses machine learning
-      algorithms like Random Forest and SVM to detect learning disabilities in
-      students using the Moodle Learning Management System.
-
-
-      [Read Paper to Know More ](https://ieeexplore.ieee.org/document/9250761)
+    text: "```\n\n      <h1>\U0001F4DA Machine Learning Based Learning Disability Detection using LMS</h1>\n      <p>Published in the 5th IEEE International Conference on Computing, Communication and Automation (IEEE ICCCA) - 2020</p>\n      <p>This research paper dives deep into a system designed to detect learning disabilities in students using machine learning algorithms. The study leverages Moodle, a popular Learning Management System (LMS), and applies Random Forest and Support Vector Machines (SVM) to analyze student behavior and patterns \U0001F9E0.</p>\n      <p>Read the full paper to explore the fascinating intersection of education and machine learning! \U0001F4BB\U0001F4D8</p>\n```\n\n```\n<div class=\"image\">\n  <img src=\"path_to_your_image.png\" alt=\"Visual Summary of Machine Learning Project\">\n</div>\n```\n\n```\n```\n\n"
     elementId: ''
     styles:
       self:
