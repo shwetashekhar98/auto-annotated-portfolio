@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: '                                                                    Shweta Shekhar'
+    title: '                                                                                      Shweta Shekhar'
     subtitle: >-
       Master's Student in Computer Science at NYU | Experienced Software
       Engineer at GEP | Former ML Intern at BARC | Passionate about Machine
