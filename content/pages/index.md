@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: >-
-      Anirudh Srinath BelwadiEntrepreneur | Full Stack Developer | Musician |
-      Photographer
+    title: Shweta Shekhar | Full Stack Developer | Musician | Photographer
     subtitle: ''
     styles:
       self:
