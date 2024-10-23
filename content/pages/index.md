@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Shweta Shekhar
-    subtitle: "Master's Student in Computer Science at NYU | Experienced Software Engineer at GEP | Former ML Intern at BARC | Passionate about Machine Learning & Data Science | Dancer | Singer |\_\U0001F469‍\U0001F4BB Passionate Technologist!"
+    subtitle: "\U0001F469‍\U0001F4BB\_Master's Student in Computer Science @ NYU\_| \U0001F4BC\_Experienced Software Engineer @ GEP\_| \U0001F50D\_Former ML Intern @ BARC\_| \U0001F916\_Passionate about Machine Learning & Data Science\_| \U0001F483\_Dancer\_| \U0001F3A4\_Singer\_| \U0001F680\_Tech Enthusiast"
     styles:
       self:
         height: auto
