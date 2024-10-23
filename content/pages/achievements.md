@@ -7,20 +7,7 @@ sections:
     variant: variant-a
     title: Achievements
     subtitle: Publications
-    text: >
-      ***Machine Learning Based Learning Disability Detection using LMS***
-
-
-      *   Published in the 5th IEEE International Conference on Computing,
-      Communication and Automation (IEEE ICCCA) - 2020
-
-
-      *   This research paper introduces a system that uses machine learning
-      algorithms like Random Forest and SVM to detect learning disabilities in
-      students using the Moodle Learning Management System.
-
-
-      [Read Paper to Know More ](https://ieeexplore.ieee.org/document/9250761)
+    text: "**Machine Learning-Based Learning Disability Detection using LMS**\n\n*Published in the 5th IEEE International Conference on Computing, Communication and Automation (IEEE ICCCA) - 2020*\n\nMachine Learning Project Doodle Visual![](https://preview--shweta0898portfolio-d9241.stackbit.dev/_static/app-assets/public/images/DALL%C2%B7E%202024-10-23%2010.01.10%20-%20A%20visual%20summary%20of%20a%20machine%20learning%20project%20detecting%20learning%20disabilities%20using%20Moodle%20LMS.%20The%20design%20shows%20a%20flowchart-like%20diagram%20with%20icons%20.webp)\n\n**Overview**\n\nThis research explores a system that uses machine learning algorithms to identify learning disabilities and non-learning disabilities in students. By leveraging **Moodle** and employing **Random Forest** and **Support Vector Machines (SVM)**, we analyze student behavior to detect challenges early \U0001F9E0.\n\n**Implementation**\n\n\\- Data Processing: Conducted in Python using **Scikit-learn** and **Pandas**.\n\\- Objective: Foster a more inclusive learning experience.\n\nSignificance\n\n\U0001F31F Discover how this research shapes the future of education! \U0001F31F\n\n[Read the full paper](https://ieeexplore.ieee.org/document/9250761) to explore the fascinating intersection of education and machine learning, and discover how this research shapes the future of learning!\n"
     elementId: ''
     styles:
       self:
